@@ -1,6 +1,6 @@
 # Chat 
 
-## Web Chat demo using WebSockets
+### Demo of a Web Responsive Chat using WebSockets
 
 - Client side: HTML5, CSS3, JavaScript
 - Server side: Java EE 7
