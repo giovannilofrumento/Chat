@@ -7,6 +7,6 @@
 
 - Deploy the war file in a Java EE 7 web container (Apache Tomcat 8.x, GlassFish 4.x, ...)
 
-- URL: http://<server>:8084/Chat (e.g http://localhost:8084/Chat)
+- URL: http://domain_name:8084/Chat (e.g http://localhost:8084/Chat)
   
 - IDE: NetBeans 8.1 
