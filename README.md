@@ -1,18 +1,12 @@
 # Chat 
 
-Web Chat demo using WebSockets
+## Web Chat demo using WebSockets
 
-Client side:
-  HTML5
-  CSS3
-  JavaScript
+- Client side: HTML5, CSS3, JavaScript
+- Server side: Java EE 7
+
+- Deploy the war file in a Java EE 7 web container (Apache Tomcat 8.x, GlassFish 4.x, ...)
+
+- URL: http://<server>:8084/Chat (e.g http://localhost:8084/Chat)
   
-Server side
-  Java EE 7
-
-Deploy the war file in a web container Java EE 7 compliant (Apache Tomcat 8.x, GlassFish 4.x, ...)
-
-URL: http://<server>:8084/Chat (e.g http://localhost:8084/Chat)
-  
-IDE
-NetBeans 8.1 
+- IDE: NetBeans 8.1 
